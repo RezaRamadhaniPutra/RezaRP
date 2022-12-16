@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Battke Tank/1.0.0": {
+        "runtime": {
+          "Battke Tank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Battke Tank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

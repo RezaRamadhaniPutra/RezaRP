@@ -1,0 +1,15 @@
+C:\Users\girin\Desktop\Program Dadu\obj\Debug\net6.0\Program Dadu.csproj.AssemblyReference.cache
+C:\Users\girin\Desktop\Program Dadu\obj\Debug\net6.0\Program Dadu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girin\Desktop\Program Dadu\obj\Debug\net6.0\Program Dadu.AssemblyInfoInputs.cache
+C:\Users\girin\Desktop\Program Dadu\obj\Debug\net6.0\Program Dadu.AssemblyInfo.cs
+C:\Users\girin\Desktop\Program Dadu\obj\Debug\net6.0\Program Dadu.csproj.CoreCompileInputs.cache
+C:\Users\girin\Desktop\Program Dadu\bin\Debug\net6.0\Program Dadu.exe
+C:\Users\girin\Desktop\Program Dadu\bin\Debug\net6.0\Program Dadu.deps.json
+C:\Users\girin\Desktop\Program Dadu\bin\Debug\net6.0\Program Dadu.runtimeconfig.json
+C:\Users\girin\Desktop\Program Dadu\bin\Debug\net6.0\Program Dadu.dll
+C:\Users\girin\Desktop\Program Dadu\bin\Debug\net6.0\Program Dadu.pdb
+C:\Users\girin\Desktop\Program Dadu\obj\Debug\net6.0\Program Dadu.dll
+C:\Users\girin\Desktop\Program Dadu\obj\Debug\net6.0\refint\Program Dadu.dll
+C:\Users\girin\Desktop\Program Dadu\obj\Debug\net6.0\Program Dadu.pdb
+C:\Users\girin\Desktop\Program Dadu\obj\Debug\net6.0\Program Dadu.genruntimeconfig.cache
+C:\Users\girin\Desktop\Program Dadu\obj\Debug\net6.0\ref\Program Dadu.dll

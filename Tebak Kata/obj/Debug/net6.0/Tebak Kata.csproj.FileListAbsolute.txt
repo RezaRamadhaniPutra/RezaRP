@@ -1,0 +1,15 @@
+C:\Users\girin\Documents\Tebak Kata\obj\Debug\net6.0\Tebak Kata.csproj.AssemblyReference.cache
+C:\Users\girin\Documents\Tebak Kata\obj\Debug\net6.0\Tebak Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girin\Documents\Tebak Kata\obj\Debug\net6.0\Tebak Kata.AssemblyInfoInputs.cache
+C:\Users\girin\Documents\Tebak Kata\obj\Debug\net6.0\Tebak Kata.AssemblyInfo.cs
+C:\Users\girin\Documents\Tebak Kata\obj\Debug\net6.0\Tebak Kata.csproj.CoreCompileInputs.cache
+C:\Users\girin\Documents\Tebak Kata\bin\Debug\net6.0\Tebak Kata.exe
+C:\Users\girin\Documents\Tebak Kata\bin\Debug\net6.0\Tebak Kata.deps.json
+C:\Users\girin\Documents\Tebak Kata\bin\Debug\net6.0\Tebak Kata.runtimeconfig.json
+C:\Users\girin\Documents\Tebak Kata\bin\Debug\net6.0\Tebak Kata.dll
+C:\Users\girin\Documents\Tebak Kata\bin\Debug\net6.0\Tebak Kata.pdb
+C:\Users\girin\Documents\Tebak Kata\obj\Debug\net6.0\Tebak Kata.dll
+C:\Users\girin\Documents\Tebak Kata\obj\Debug\net6.0\refint\Tebak Kata.dll
+C:\Users\girin\Documents\Tebak Kata\obj\Debug\net6.0\Tebak Kata.pdb
+C:\Users\girin\Documents\Tebak Kata\obj\Debug\net6.0\Tebak Kata.genruntimeconfig.cache
+C:\Users\girin\Documents\Tebak Kata\obj\Debug\net6.0\ref\Tebak Kata.dll

@@ -1,0 +1,15 @@
+C:\Users\girin\Desktop\Battke Tank\bin\Debug\net6.0\Battke Tank.exe
+C:\Users\girin\Desktop\Battke Tank\bin\Debug\net6.0\Battke Tank.deps.json
+C:\Users\girin\Desktop\Battke Tank\bin\Debug\net6.0\Battke Tank.runtimeconfig.json
+C:\Users\girin\Desktop\Battke Tank\bin\Debug\net6.0\Battke Tank.dll
+C:\Users\girin\Desktop\Battke Tank\bin\Debug\net6.0\Battke Tank.pdb
+C:\Users\girin\Desktop\Battke Tank\obj\Debug\net6.0\Battke Tank.csproj.AssemblyReference.cache
+C:\Users\girin\Desktop\Battke Tank\obj\Debug\net6.0\Battke Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\girin\Desktop\Battke Tank\obj\Debug\net6.0\Battke Tank.AssemblyInfoInputs.cache
+C:\Users\girin\Desktop\Battke Tank\obj\Debug\net6.0\Battke Tank.AssemblyInfo.cs
+C:\Users\girin\Desktop\Battke Tank\obj\Debug\net6.0\Battke Tank.csproj.CoreCompileInputs.cache
+C:\Users\girin\Desktop\Battke Tank\obj\Debug\net6.0\Battke Tank.dll
+C:\Users\girin\Desktop\Battke Tank\obj\Debug\net6.0\refint\Battke Tank.dll
+C:\Users\girin\Desktop\Battke Tank\obj\Debug\net6.0\Battke Tank.pdb
+C:\Users\girin\Desktop\Battke Tank\obj\Debug\net6.0\Battke Tank.genruntimeconfig.cache
+C:\Users\girin\Desktop\Battke Tank\obj\Debug\net6.0\ref\Battke Tank.dll
